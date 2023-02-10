@@ -1,0 +1,16 @@
+C:\Users\egein\Desktop\Kayıt alma Sistemi\Kayıt alma Sistemi\bin\Debug\Kayıt alma Sistemi.exe.config
+C:\Users\egein\Desktop\Kayıt alma Sistemi\Kayıt alma Sistemi\bin\Debug\Kayıt alma Sistemi.exe
+C:\Users\egein\Desktop\Kayıt alma Sistemi\Kayıt alma Sistemi\bin\Debug\Kayıt alma Sistemi.pdb
+C:\Users\egein\Desktop\Kayıt alma Sistemi\Kayıt alma Sistemi\obj\Debug\Kayıt alma Sistemi.csproj.AssemblyReference.cache
+C:\Users\egein\Desktop\Kayıt alma Sistemi\Kayıt alma Sistemi\obj\Debug\Kayıt alma Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\egein\Desktop\Kayıt alma Sistemi\Kayıt alma Sistemi\obj\Debug\Kayıt alma Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\egein\Desktop\Kayıt alma Sistemi\Kayıt alma Sistemi\obj\Debug\Kayıt alma Sistemi.exe
+C:\Users\egein\Desktop\Kayıt alma Sistemi\Kayıt alma Sistemi\obj\Debug\Kayıt alma Sistemi.pdb
+C:\Users\egein\Desktop\C# projeler\Kayıt alma Sistemi\Kayıt alma Sistemi\bin\Debug\Kayıt alma Sistemi.exe.config
+C:\Users\egein\Desktop\C# projeler\Kayıt alma Sistemi\Kayıt alma Sistemi\bin\Debug\Kayıt alma Sistemi.exe
+C:\Users\egein\Desktop\C# projeler\Kayıt alma Sistemi\Kayıt alma Sistemi\bin\Debug\Kayıt alma Sistemi.pdb
+C:\Users\egein\Desktop\C# projeler\Kayıt alma Sistemi\Kayıt alma Sistemi\obj\Debug\Kayıt alma Sistemi.csproj.AssemblyReference.cache
+C:\Users\egein\Desktop\C# projeler\Kayıt alma Sistemi\Kayıt alma Sistemi\obj\Debug\Kayıt alma Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\egein\Desktop\C# projeler\Kayıt alma Sistemi\Kayıt alma Sistemi\obj\Debug\Kayıt alma Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\egein\Desktop\C# projeler\Kayıt alma Sistemi\Kayıt alma Sistemi\obj\Debug\Kayıt alma Sistemi.exe
+C:\Users\egein\Desktop\C# projeler\Kayıt alma Sistemi\Kayıt alma Sistemi\obj\Debug\Kayıt alma Sistemi.pdb
