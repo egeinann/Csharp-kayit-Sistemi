@@ -1,0 +1,16 @@
+C:\Users\egein\Desktop\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\Sayı Tahmin Oyunu.exe.config
+C:\Users\egein\Desktop\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\Sayı Tahmin Oyunu.exe
+C:\Users\egein\Desktop\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\Sayı Tahmin Oyunu.pdb
+C:\Users\egein\Desktop\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.csproj.AssemblyReference.cache
+C:\Users\egein\Desktop\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\egein\Desktop\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\egein\Desktop\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.exe
+C:\Users\egein\Desktop\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.pdb
+C:\Users\egein\Desktop\C# projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\Sayı Tahmin Oyunu.exe.config
+C:\Users\egein\Desktop\C# projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\Sayı Tahmin Oyunu.exe
+C:\Users\egein\Desktop\C# projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\Sayı Tahmin Oyunu.pdb
+C:\Users\egein\Desktop\C# projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.csproj.AssemblyReference.cache
+C:\Users\egein\Desktop\C# projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\egein\Desktop\C# projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\egein\Desktop\C# projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.exe
+C:\Users\egein\Desktop\C# projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.pdb
